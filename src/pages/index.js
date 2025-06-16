@@ -1,5 +1,5 @@
 
-import ShoeStore from '../prediction/ShoeStore';
+import ShoeStore from './prediction/ShoeStore';
 
 export default function HomePage() {
   return (
